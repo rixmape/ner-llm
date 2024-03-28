@@ -1,0 +1,183 @@
+[
+    {
+        "name": "Cheese Cupcakes",
+        "entities": {
+            "INGREDIENT": [
+                "flour",
+                "baking powder",
+                "salt",
+                "butter",
+                "sugar",
+                "eggs",
+                "milk",
+                "cheese"
+            ]
+        }
+    },
+    {
+        "name": "Adobong Sitaw with Pork",
+        "entities": {
+            "INGREDIENT": [
+                "canola oil",
+                "pork belly",
+                "onion",
+                "garlic",
+                "vinegar",
+                "soy sauce",
+                "water"
+            ]
+        }
+    },
+    {
+        "name": "Burger Steak",
+        "entities": {
+            "INGREDIENT": [
+                "white bread",
+                "beef broth",
+                "ground beef",
+                "onion",
+                "egg",
+                "salt",
+                "pepper",
+                "canola oil",
+                "button mushrooms",
+                "butter",
+                "flour"
+            ]
+        }
+    },
+    {
+        "name": "Chicken Menudo",
+        "entities": {
+            "INGREDIENT": [
+                "canola oil",
+                "red bell pepper",
+                "green bell pepper",
+                "hot dogs",
+                "onion",
+                "garlic",
+                "soy sauce",
+                "pineapple juice",
+                "tomatoes",
+                "tomato paste",
+                "water",
+                "salt",
+                "pepper",
+                "potatoes",
+                "carrots",
+                "raisins"
+            ]
+        }
+    },
+    {
+        "name": "Beef Salpicao",
+        "entities": {
+            "INGREDIENT": [
+                "ribeye steak",
+                "salt",
+                "pepper",
+                "worcestershire sauce",
+                "soy sauce",
+                "brown sugar",
+                "red chili pepper flakes",
+                "butter",
+                "olive oil",
+                "garlic"
+            ]
+        }
+    },
+    {
+        "name": "Bibingkoy",
+        "entities": {
+            "INGREDIENT": [
+                "red mung beans",
+                "water",
+                "sugar",
+                "cornstarch",
+                "glutinous rice flour",
+                "coconut cream",
+                "mini sago",
+                "jackfruit strips"
+            ]
+        }
+    },
+    {
+        "name": "Longganisa",
+        "entities": {
+            "INGREDIENT": [
+                "lean ground pork",
+                "pork fat",
+                "garlic",
+                "soy sauce",
+                "anisado wine vinegar",
+                "brown sugar",
+                "salt",
+                "ground black pepper",
+                "paprika",
+                "hog casings",
+                "water",
+                "canola oil"
+            ]
+        }
+    },
+    {
+        "name": "Sinigang na Baka",
+        "entities": {
+            "INGREDIENT": [
+                "beef short ribs",
+                "water",
+                "onion",
+                "fish sauce",
+                "gabi",
+                "finger chilies",
+                "radish",
+                "tamarind",
+                "kangkong",
+                "salt",
+                "pepper"
+            ]
+        }
+    },
+    {
+        "name": "Chicken Mami",
+        "entities": {
+            "INGREDIENT": [
+                "egg noodles",
+                "broth",
+                "napa cabbage",
+                "carrot",
+                "eggs",
+                "garlic",
+                "green onions",
+                "canola oil",
+                "onion",
+                "chicken",
+                "water",
+                "carrots",
+                "celery",
+                "bay leaves",
+                "peppercorns",
+                "salt",
+                "fish sauce"
+            ]
+        }
+    },
+    {
+        "name": "Chicken Bistek",
+        "entities": {
+            "INGREDIENT": [
+                "chicken",
+                "onion",
+                "garlic",
+                "peppercorns",
+                "lemon",
+                "calamansi juice",
+                "soy sauce",
+                "canola oil",
+                "water",
+                "liver spread",
+                "salt"
+            ]
+        }
+    }
+]

@@ -1,35 +1,196 @@
 [
     {
-        "text": "You can't get a great chocolate flavor with carob.",
+        "text": "flour, sifted baking powder salt butter, softened sugar eggs (14 ounces) sweetened condensed milk quick-melt cheese, shredded cheddar cheese",
         "spans": [
             {
-                "text": "chocolate",
-                "is_entity": false,
-                "label": "==NONE==",
-                "reason": "is a flavor in this context, not an ingredient"
-            },
-            {
-                "text": "carob",
+                "text": "flour",
                 "is_entity": true,
                 "label": "INGREDIENT",
-                "reason": "is an ingredient to add chocolate flavor"
+                "reason": "is a base ingredient for many recipes"
+            },
+            {
+                "text": "baking powder",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used as a leavening agent in baking"
+            },
+            {
+                "text": "salt",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used for seasoning"
+            },
+            {
+                "text": "butter",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used as a fat in baking and cooking"
+            },
+            {
+                "text": "sugar",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used as a sweetener"
+            },
+            {
+                "text": "eggs",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "are used as a binding agent in baking"
+            },
+            {
+                "text": "milk",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is a liquid ingredient, often used in baking and cooking"
+            },
+            {
+                "text": "cheese",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used for flavor and texture"
             }
         ]
     },
     {
-        "text": "You can probably sand-blast it if it's an anodized aluminum pan",
+        "text": "canola oil pork belly, cut into thin strips onion, peeled and sliced thinly garlic, peeled and minced vinegar soy sauce water yard long beans (sitaw), ends trimmed and cut into 3-inch lengths salt and pepper to taste fried garlic bits, optional",
         "spans": [
             {
-                "text": "sand-blast",
-                "is_entity": false,
-                "label": "==NONE==",
-                "reason": "is a cleaning technique, not some kind of equipment"
+                "text": "canola oil",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used as cooking oil"
             },
             {
-                "text": "anodized aluminum pan",
+                "text": "pork belly",
                 "is_entity": true,
-                "label": "EQUIPMENT",
-                "reason": "is a piece of cooking equipment, anodized is included since it describes the type of pan"
+                "label": "INGREDIENT",
+                "reason": "is a type of meat"
+            },
+            {
+                "text": "onion",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used for flavoring"
+            },
+            {
+                "text": "garlic",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used for flavoring"
+            },
+            {
+                "text": "vinegar",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used as a condiment or for pickling"
+            },
+            {
+                "text": "soy sauce",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used as a seasoning"
+            },
+            {
+                "text": "water",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used in cooking for various purposes"
+            },
+            {
+                "text": "beans",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "are used as a vegetable"
+            },
+            {
+                "text": "salt",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used for seasoning"
+            },
+            {
+                "text": "pepper",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used for seasoning"
+            }
+        ]
+    },
+    {
+        "text": "beef short ribs water onion, peeled and quartered Roma tomatoes, quartered fish sauce gabi, peeled and halved depending on size finger chilies (6 inches) radish (labanos), peeled and cut into ½-inch thick on a bias large tamarind pieces or 1 ½ (1.41 ounces each) packages tamarind base powder kangkong salt and pepper to taste",
+        "spans": [
+            {
+                "text": "beef short ribs",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is a type of meat"
+            },
+            {
+                "text": "water",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used in cooking for various purposes"
+            },
+            {
+                "text": "onion",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used for flavoring"
+            },
+            {
+                "text": "Roma tomatoes",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "are used for their flavor and texture"
+            },
+            {
+                "text": "fish sauce",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used as a seasoning"
+            },
+            {
+                "text": "gabi",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used as a vegetable"
+            },
+            {
+                "text": "finger chilies",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "are used for spiciness"
+            },
+            {
+                "text": "radish",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used as a vegetable"
+            },
+            {
+                "text": "tamarind",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used for its sour flavor"
+            },
+            {
+                "text": "kangkong",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used as a leafy vegetable"
+            },
+            {
+                "text": "salt",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used for seasoning"
+            },
+            {
+                "text": "pepper",
+                "is_entity": true,
+                "label": "INGREDIENT",
+                "reason": "is used for seasoning"
             }
         ]
     }
